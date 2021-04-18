@@ -8,7 +8,7 @@ const config = {
   title: "La Soufriere Emergency Shelters",
   description:
     "This map provides information about the emergency shelters being used following the 2021 eruption of the La Soufriere volcano in St. Vincent and the Grenadines. You can filter the list by district, and type of shelter.",
-  sideBarInfo: ["Name"],
+  sideBarInfo: ["Name", Occupancy:"Occupancy"],
   popupInfo: ["Name"],
   filters: [
     {
