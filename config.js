@@ -11,7 +11,6 @@ const config = {
   sideBarInfo: ["Name"],
   popupInfo: ["Name"],
   filters: [
-    
     {
       type: "checkbox",
       title: "Type: ",
