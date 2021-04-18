@@ -74,10 +74,9 @@
 }
 
 .mapboxgl-popup-content {
-    font: 400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
-    text-align: center;
-    padding: 5;
-    width: 180px;
+   font: 400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
+      padding: 0;
+      width: 250px;
   }
 
 .mapboxgl-popup-close-button {
@@ -85,10 +84,21 @@
   }
 
 .mapboxgl-popup-content h3 {
-    color:black;
-    font-weight: 500;
-    margin: 0;
-    display: block;
+    background: rgb(61, 59, 59);
+
+      text-align: center;
+
+      color: #fff;
+
+      margin: 0;
+
+      display: block;
+
+      padding: 15px;
+
+      font-weight: 700;
+
+      margin-top: -5px;
 
   }
 
