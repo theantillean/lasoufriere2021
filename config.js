@@ -4,7 +4,7 @@ const config = {
     "pk.eyJ1IjoicmVsaWVmdHJhY2tlciIsImEiOiJja25sd200MjYwbGxqMm5wYjJ0eW51Z3Y1In0.tISb-YxTPkEmpUCjddpafQ",
   CSV: "https://docs.google.com/spreadsheets/d/1l7lrzXd1T4ro7f1B8dynEqvJtSwTgYVhc3RlHaxC_a4/gviz/tq?tqx=out:csv&sheet=SVGShelters",
   center: [-61.197096, 13.252818],
-  zoom: 9,
+  zoom: 10,
   title: "La Soufriere Eruption Emergency Shelters",
   description:
     "Replace with information about your application. Ex. You can search by address to sort the list below by distance. You can also filter the list by language support options, which days a location is open, and whether they have devices to use to complete the survey by phone or online.",
