@@ -1,5 +1,5 @@
 const config = {
-  style: "mapbox://styles/mapbox/satellite-streets-v11",
+  style: "mapbox://styles/mapbox/light-v10",
   accessToken:
     "pk.eyJ1IjoicmVsaWVmdHJhY2tlciIsImEiOiJja25sd200MjYwbGxqMm5wYjJ0eW51Z3Y1In0.tISb-YxTPkEmpUCjddpafQ",
   CSV: "https://docs.google.com/spreadsheets/d/1l7lrzXd1T4ro7f1B8dynEqvJtSwTgYVhc3RlHaxC_a4/gviz/tq?tqx=out:csv&sheet=SVGShelters",
